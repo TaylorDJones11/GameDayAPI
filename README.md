@@ -4,6 +4,7 @@
 This project demonstrates building a containerized API management system for querying sports data. It leverages **Amazon ECS (Fargate)** for running containers, **Amazon API Gateway** for exposing REST endpoints, and an external **Sports API** for real-time sports data. The project showcases advanced cloud computing practices, including API management, container orchestration, and secure AWS integrations.
 
 **Blog**
+- [Blog Link](https://dev.to/onetayjones/devops-challenge-day-2-building-an-automated-nba-score-alert-system-with-aws-3i6j](https://dev.to/onetayjones/tackling-the-cloud-building-a-containerized-sports-api-with-aws-ecs-and-api-gateway-57c6))
 ---
 
 ## **Features**
