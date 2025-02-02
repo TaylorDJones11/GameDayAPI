@@ -23,7 +23,8 @@ This project demonstrates building a containerized API management system for que
 ---
 
 ## **Technical Architecture**
-![Brown Minimalist Lifestyle Daily Vlog YouTube Thumbnail (2)](https://github.com/user-attachments/assets/32e49fe6-df16-40cb-b262-af1478cf01d5)
+<img width="917" alt="Screenshot 2025-02-02 at 13 44 13" src="https://github.com/user-attachments/assets/43e473ef-5a1c-47a2-86c0-4ff7fb18b10d" />
+
 
 ---
 
@@ -39,7 +40,7 @@ This project demonstrates building a containerized API management system for que
 ## **Project Structure**
 
 ```bash
-sports-api-management/
+GameDayAPI/
 ├── app.py # Flask application for querying sports data
 ├── Dockerfile # Dockerfile to containerize the Flask app
 ├── requirements.txt # Python dependencies
